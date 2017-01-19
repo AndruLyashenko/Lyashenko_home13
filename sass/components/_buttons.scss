@@ -1,0 +1,93 @@
+.button-contact {
+  background-color: #ffaf36;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  text-align: center;
+  padding: 20px 33px;
+  color: #1c1c1c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+
+}
+
+.button-contact:hover {
+  background-color: green;
+  color: red;
+  text-decoration: none;
+}
+
+.aboutus .button-contact:hover {
+  background-color: green;
+  color: red;
+  text-decoration: none;
+}
+
+.aboutus .button-contact {
+  border: 2px solid #ffaf36;
+  background-color: rgba(255, 175, 54, 0);
+  color: #ffaf36;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+.services .button-contact {
+  border: 2px solid #ffaf36;
+  background-color: rgba(255, 175, 54, 0);
+  color: #ffaf36;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+
+}
+
+.services .button-contact:hover {
+  background-color: green;
+  color: red;
+  text-decoration: none;
+}
+
+.news .button-contact {
+  border: 2px solid #ffaf36;
+  background-color: rgba(255, 175, 54, 0);
+  color: #ffaf36;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+.news .button-contact:hover {
+  background-color: green;
+  color: red;
+  text-decoration: none;
+}
+
+
+.submit:hover {
+  background-color: green;
+  color: red;
+}
+
+
+.submit {
+  border: 2px solid #ffaf36;
+  background-color: rgba(255, 175, 54, 0);
+  padding: 20px 28px;
+  margin-top: 10px;
+  color: #ffaf36;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 13px;
+  text-transform: uppercase;
+}
