@@ -66,19 +66,19 @@ footer {
 }
 
 ::-webkit-input-placeholder {
-  color: pink;
+  color: #b9b9b9;
 }
 
 ::-moz-placeholder {
-  color: pink;
+  color: #b9b9b9;
 }
 
 :-ms-input-placeholder {
-  color: pink;
+  color: #b9b9b9;
 }
 
 :-moz-placeholder {
-  color: pink;
+  color: #b9b9b9;
 }
 
 .form-input {
@@ -86,16 +86,6 @@ footer {
   width: 50%;
 }
 
-.form-input input {
-  width: 100%;
-  color: #b9b9b9;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  font-style: italic;
-  line-height: 31px;
-  background-color: #2a2b2c;
-  border: 1px solid #373839;
-}
 
 textarea {
   width: 100%;
