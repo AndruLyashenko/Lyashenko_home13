@@ -1,3 +1,16 @@
+.button-have-main {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 22px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  background-color: #e7434e;
+  padding: 25px 45px;
+}
+
+
 .header-button {
   text-decoration: none;
   text-align: center;
@@ -5,20 +18,27 @@
   background-color: #e7434e;
   background-image: url("../images/sailboat.png");
   background-repeat: no-repeat;
-  padding: 68px 25px 41px 25px;
-  background-position: left center;
+  padding: 22px 41px 22px 68px;
+  background-position: 40px center;
   color: #ffffff;
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 22px;
   text-transform: uppercase;
+  float: right;
+  margin-right: 250px;
 }
 
 
 .header-button:hover {
-  background-color: green;
-  color: red;
+  background-color: yellowgreen;
+  color: blue;
 
 }
 
+.button-have-main:hover {
+  background-color: yellowgreen;
+  color: blue;
+
+}
